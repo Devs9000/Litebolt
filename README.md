@@ -34,3 +34,26 @@ SHA256
 8375D003B1868A3E22E8D341EA5C5F1867C6FD165126CD72B7C694E6621F7476
 
 MD5
+
+
+## ========================= FAQ ==========================
+
+## Can I activate Windows?
+
+Yes, with a valid license.
+
+## Is Windows Defender included?
+
+Yes.
+
+## Can I receive Windows Updates?
+
+Yes.
+
+## Is TPM required?
+
+No.
+
+## Does it support Secure Boot?
+
+Yes.
