@@ -8,6 +8,19 @@ Lightweight • Fast • Secure
 
 A lightweight Windows experience based on Windows 10 Enterprise IoT LTSC.
 
+## Base System
+
+LiteBolt is built upon the official Microsoft Windows 10 IoT Enterprise LTSC 2021 installation media.
+
+| Property | Value |
+|----------|-------|
+| Edition | Windows 10 IoT Enterprise LTSC 2021 |
+| Version | 2009 |
+| Build | 19044 |
+| Architecture | x64 |
+
+LiteBolt focuses on performance optimization, system cleanup, and compatibility while preserving the original Microsoft Windows foundation.
+
 ## Features
 
 - 🚀 Lightweight
