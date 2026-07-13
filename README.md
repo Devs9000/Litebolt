@@ -83,7 +83,7 @@ Every LiteBolt release starts from an official Microsoft Windows image and is ca
 | Version | 1.0 |
 | ISO Size | 4.9 GB |
 | SHA256 | `8375D003B1868A3E22E8D341EA5C5F1867C6FD165126CD72B7C694E6621F7476` |
-| Download | **MEGA** |
+| Download | [**MEGA**](https://mega.nz/folder/pyBl2QDQ#-G1VygUsgVyljHvQ7cnprA) |
 
 ---
 
